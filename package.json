@@ -1,0 +1,23 @@
+{
+  "name": "utmparser",
+  "version": "0.0.1",
+  "description": "Middleware to parse UTM query string as request attribute",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tekpill/utmparser.git"
+  },
+  "author": "ankit@courses.ninja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tekpill/utmparser/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "homepage": "https://github.com/tekpill/utmparser#readme"
+}
